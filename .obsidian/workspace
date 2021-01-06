@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JVM/GC Roots.md",
-            "mode": "source"
+            "file": "Inbox/JVMTI.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/GC Roots.md",
+                "file": "Inbox/JVMTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/GC Roots.md"
+                "file": "Inbox/JVMTI.md"
               }
             }
           }
@@ -116,6 +116,7 @@
     "width": 377
   },
   "lastOpenFiles": [
+    "Inbox/JVMTI.md",
     "JVM/GC Roots.md",
     "JVM/synchronized.md",
     "JVM/字符串常量池.md",
@@ -124,7 +125,6 @@
     "JVM/直接引用.md",
     "JVM/可达性分析算法.md",
     "JVM/常量池.md",
-    "JVM/元空间.md",
-    "JVM/对象的创建.md"
+    "JVM/元空间.md"
   ]
 }
