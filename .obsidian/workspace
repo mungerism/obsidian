@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "JVM/GC Roots.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -76,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JVM/GC Roots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JVM/GC Roots.md"
+              }
             }
           }
         ]
@@ -111,14 +117,14 @@
   },
   "lastOpenFiles": [
     "JVM/GC Roots.md",
+    "JVM/synchronized.md",
+    "JVM/字符串常量池.md",
+    "JVM/本地方法栈.md",
     "JVM/运行时常量池.md",
     "JVM/直接引用.md",
     "JVM/可达性分析算法.md",
     "JVM/常量池.md",
     "JVM/元空间.md",
-    "JVM/对象的创建.md",
-    "JVM/Channel.md",
-    "JVM/引用链.md",
-    "JVM/引用计数算法.md"
+    "JVM/对象的创建.md"
   ]
 }
