@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JVM/test.md",
+            "file": "JVM/常量池.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/test.md",
+                "file": "JVM/常量池.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/test.md"
+                "file": "JVM/常量池.md"
               }
             }
           }
@@ -113,19 +113,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377,
-    "collapsed": true
+    "width": 377
   },
   "lastOpenFiles": [
-    "Inbox/test.md",
+    "JVM/常量池.md",
+    "JVM/常量.md",
     "JVM/test.md",
+    "Inbox/test.md",
     "JVM/String.intern.md",
     "JVM/常量池表.md",
-    "JVM/常量池.md",
     "JVM/本地方法栈.md",
     "Inbox/分代收集.md",
     "Inbox/Java 动态调试.md",
-    "JVM/GC Roots.md",
-    "Inbox/分代假说.md"
+    "JVM/GC Roots.md"
   ]
 }
