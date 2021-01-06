@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JVM/test.md",
+                "file": "JVM/常量池表.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/test.md",
+                "file": "JVM/常量池表.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/test.md",
+                "file": "JVM/常量池表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/test.md"
+                "file": "JVM/常量池表.md"
               }
             }
           }
@@ -155,15 +155,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Inbox/test.md",
+    "JVM/常量池表.md",
+    "JVM/常量池.md",
+    "JVM/本地方法栈.md",
+    "JVM/test.md",
     "Inbox/分代收集.md",
+    "Inbox/Java 动态调试.md",
+    "Inbox/test.md",
     "JVM/GC Roots.md",
     "Inbox/分代假说.md",
-    "JVM/方法区.md",
-    "JVM/栈帧.md",
-    "JVM/静态变量.md",
-    "JVM/本地方法栈.md",
-    "Inbox/Java 动态调试.md",
-    "Inbox/JVMTI.md"
+    "JVM/方法区.md"
   ]
 }
