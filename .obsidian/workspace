@@ -6,13 +6,22 @@
       {
         "id": "3f3219dac4bef0d6",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JVM/常量池.md",
+            "file": "JVM/符号引用.md",
             "mode": "source"
           }
+        },
+        "group": "067a2ef8747da726"
+      },
+      {
+        "id": "17e75b70f967ee93",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
         },
         "group": "067a2ef8747da726"
       },
@@ -22,7 +31,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "JVM/常量池.md",
+            "file": "JVM/符号引用.md",
             "options": {
               "search": "",
               "localJumps": 1,
@@ -109,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/常量池.md",
+                "file": "JVM/符号引用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/常量池.md"
+                "file": "JVM/符号引用.md"
               }
             }
           }
@@ -147,15 +156,15 @@
     "width": 377
   },
   "lastOpenFiles": [
+    "JVM/符号引用.md",
     "JVM/常量池.md",
+    "Inbox/字面量.md",
     "JVM/test.md",
     "JVM/常量.md",
     "JVM/直接引用.md",
     "JVM/类加载.md",
-    "JVM/符号引用.md",
     "Inbox/test.md",
     "JVM/String.intern.md",
-    "JVM/常量池表.md",
-    "JVM/本地方法栈.md"
+    "JVM/常量池表.md"
   ]
 }
