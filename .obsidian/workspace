@@ -10,10 +10,11 @@
           {
             "id": "40ae49c4bb158380",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/分代收集.md",
+                "file": "Inbox/test.md",
                 "mode": "source"
               }
             },
@@ -22,11 +23,10 @@
           {
             "id": "e2ab1109b07a22cd",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/分代收集.md",
+                "file": "Inbox/test.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/分代收集.md",
+                "file": "Inbox/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/分代收集.md"
+                "file": "Inbox/test.md"
               }
             }
           }
@@ -155,8 +155,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Inbox/分代收集.md",
     "Inbox/test.md",
+    "Inbox/分代收集.md",
     "JVM/GC Roots.md",
     "Inbox/分代假说.md",
     "JVM/方法区.md",
