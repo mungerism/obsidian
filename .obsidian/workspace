@@ -13,7 +13,38 @@
             "file": "JVM/常量池.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "067a2ef8747da726"
+      },
+      {
+        "id": "dbc93bebbff755e1",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "JVM/常量池.md",
+            "options": {
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1
+            }
+          }
+        },
+        "group": "067a2ef8747da726"
       }
     ],
     "direction": "vertical"
@@ -117,14 +148,14 @@
   },
   "lastOpenFiles": [
     "JVM/常量池.md",
-    "JVM/常量.md",
     "JVM/test.md",
+    "JVM/常量.md",
+    "JVM/直接引用.md",
+    "JVM/类加载.md",
+    "JVM/符号引用.md",
     "Inbox/test.md",
     "JVM/String.intern.md",
     "JVM/常量池表.md",
-    "JVM/本地方法栈.md",
-    "Inbox/分代收集.md",
-    "Inbox/Java 动态调试.md",
-    "JVM/GC Roots.md"
+    "JVM/本地方法栈.md"
   ]
 }
