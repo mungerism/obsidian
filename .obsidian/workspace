@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5820968b6a2389ca",
+        "id": "40ae49c4bb158380",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/JVMTI.md",
+            "file": "Inbox/分代收集.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/JVMTI.md",
+                "file": "Inbox/分代收集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/JVMTI.md"
+                "file": "Inbox/分代收集.md"
               }
             }
           }
@@ -116,15 +116,15 @@
     "width": 377
   },
   "lastOpenFiles": [
-    "Inbox/JVMTI.md",
+    "Inbox/分代收集.md",
     "JVM/GC Roots.md",
-    "JVM/synchronized.md",
-    "JVM/字符串常量池.md",
+    "JVM/方法区.md",
+    "JVM/栈帧.md",
+    "JVM/静态变量.md",
     "JVM/本地方法栈.md",
-    "JVM/运行时常量池.md",
-    "JVM/直接引用.md",
-    "JVM/可达性分析算法.md",
-    "JVM/常量池.md",
-    "JVM/元空间.md"
+    "Inbox/Java 动态调试.md",
+    "Inbox/JVMTI.md",
+    "JVM/synchronized.md",
+    "JVM/字符串常量池.md"
   ]
 }
