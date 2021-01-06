@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/test.md",
+                "file": "JVM/test.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/test.md",
+                "file": "JVM/test.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/test.md",
+                "file": "JVM/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/test.md"
+                "file": "JVM/test.md"
               }
             }
           }
