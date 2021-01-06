@@ -10,7 +10,6 @@
           {
             "id": "40ae49c4bb158380",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -23,6 +22,7 @@
           {
             "id": "e2ab1109b07a22cd",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "localgraph",
               "state": {
@@ -156,6 +156,7 @@
   },
   "lastOpenFiles": [
     "Inbox/分代收集.md",
+    "Inbox/test.md",
     "JVM/GC Roots.md",
     "Inbox/分代假说.md",
     "JVM/方法区.md",
@@ -163,7 +164,6 @@
     "JVM/静态变量.md",
     "JVM/本地方法栈.md",
     "Inbox/Java 动态调试.md",
-    "Inbox/JVMTI.md",
-    "JVM/synchronized.md"
+    "Inbox/JVMTI.md"
   ]
 }
