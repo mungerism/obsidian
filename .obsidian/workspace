@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/分代收集.md",
+            "file": "JVM/GC Roots.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/分代收集.md",
+                "file": "JVM/GC Roots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/分代收集.md"
+                "file": "JVM/GC Roots.md"
               }
             }
           }
@@ -116,15 +116,15 @@
     "width": 377
   },
   "lastOpenFiles": [
-    "Inbox/分代收集.md",
     "JVM/GC Roots.md",
+    "Inbox/分代收集.md",
+    "Inbox/分代假说.md",
     "JVM/方法区.md",
     "JVM/栈帧.md",
     "JVM/静态变量.md",
     "JVM/本地方法栈.md",
     "Inbox/Java 动态调试.md",
     "Inbox/JVMTI.md",
-    "JVM/synchronized.md",
-    "JVM/字符串常量池.md"
+    "JVM/synchronized.md"
   ]
 }
