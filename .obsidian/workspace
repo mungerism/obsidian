@@ -4,13 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "40ae49c4bb158380",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "6a452ab6d57d5572",
+        "type": "split",
+        "children": [
+          {
+            "id": "40ae49c4bb158380",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/分代收集.md",
+                "mode": "source"
+              }
+            },
+            "group": "a124c90b99013e54"
+          },
+          {
+            "id": "e2ab1109b07a22cd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Inbox/分代收集.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1
+                }
+              }
+            },
+            "group": "a124c90b99013e54"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -76,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/分代收集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,18 +142,22 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/分代收集.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 377
+    "width": 377,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "JVM/GC Roots.md",
     "Inbox/分代收集.md",
+    "JVM/GC Roots.md",
     "Inbox/分代假说.md",
     "JVM/方法区.md",
     "JVM/栈帧.md",
