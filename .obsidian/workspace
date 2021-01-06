@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "9761188b84d1b3ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "5820968b6a2389ca",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d07769b38f18c80e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3cf8e9d63bd48f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "812582e3b2527ba6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "520c0c6a9cc1968e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d3b76ff348c9635",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258,
+    "collapsed": true
+  },
+  "right": {
+    "id": "83aa43a99551372b",
+    "type": "split",
+    "children": [
+      {
+        "id": "312c7d78a541d57f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8a2873207cdb1ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "afc25abf2f66b070",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a59edc0220d8e9f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377
+  },
+  "lastOpenFiles": [
+    "JVM/GC Roots.md",
+    "JVM/运行时常量池.md",
+    "JVM/直接引用.md",
+    "JVM/可达性分析算法.md",
+    "JVM/常量池.md",
+    "JVM/元空间.md",
+    "JVM/对象的创建.md",
+    "JVM/Channel.md",
+    "JVM/引用链.md",
+    "JVM/引用计数算法.md"
+  ]
+}
