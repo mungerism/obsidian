@@ -4,34 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "dbc93bebbff755e1",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "JVM/虚拟机栈.md",
-            "options": {
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1
-            }
+        "id": "a4436556dcc82416",
+        "type": "split",
+        "children": [
+          {
+            "id": "73f92042d93dbb76",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/二叉堆.md",
+                "mode": "source"
+              }
+            },
+            "group": "91c4312a1aa4815b"
+          },
+          {
+            "id": "1153f0a7274be13c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Inbox/二叉堆.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1
+                }
+              }
+            },
+            "group": "91c4312a1aa4815b"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -80,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 258,
+    "collapsed": true
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -96,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/虚拟机栈.md",
+                "file": "Inbox/二叉堆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/虚拟机栈.md"
+                "file": "Inbox/二叉堆.md"
               }
             }
           }
@@ -131,18 +152,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377
+    "width": 377,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "Inbox/二叉堆.md",
+    "Inbox/完全二叉树.md",
+    "Inbox/堆有序.md",
+    "Inbox/Untitled.md",
     "JVM/虚拟机栈.md",
     "JVM/线程.md",
     "JVM/方法区.md",
     "JVM/运行时常量池.md",
     "JVM/常量池.md",
-    "JVM/符号引用.md",
-    "Inbox/字面量.md",
-    "JVM/test.md",
-    "JVM/常量.md",
-    "JVM/直接引用.md"
+    "JVM/符号引用.md"
   ]
 }
