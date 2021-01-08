@@ -9,5 +9,5 @@ aliases: [根对象]
 3. [[方法区]]中[[常量]]引用的对象。例如[[字符串常量池]]里的引用。
 4. [[本地方法栈]]中[[Java 本地接口|JNI]]（[[Native 方法]]）引用的对象。
 5. [[synchronized]]持有的对象。
-6. JVM 内部的引用。基本数据类型对应的 Class 对象，常驻的异常对象（[[NullPointException]]、[[OutOfMemoryError]]），[[系统类加载器]]
+6. JVM 内部的引用。基本数据类型对应的 Class 对象，常驻的异常对象（[[NullPointException]]、[[OutOfMemoryError]]），[[应用类加载器|系统类加载器]]
 7. [[JMXBean]]、[[Java 动态调试]]中注册的回调、[[本地代码缓存]]等

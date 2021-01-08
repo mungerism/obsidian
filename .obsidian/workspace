@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9008b0fa68b9c185",
+        "id": "0cc759bfb9fe4192",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/jar 包.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -57,12 +54,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 258,
-    "collapsed": true
+    "width": 258
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -78,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/jar 包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/jar 包.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -124,15 +119,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Inbox/jar 包.md",
-    "Inbox/应用类加载器.md",
-    "Inbox/类路径.md",
-    "Inbox/-classpath.md",
-    "Inbox/扩展类加载器.md",
-    "JVM/启动类加载器.md",
-    "Inbox/用户类路径.md",
+    "JVM/GC Roots.md",
     "Inbox/-Xbootclasspath.md",
-    "Inbox/tool.jar.md",
-    "Inbox/rt.jar.md"
+    "Inbox/-classpath.md",
+    "Inbox/动态连接.md",
+    "Inbox/扩展类加载器.md",
+    "Inbox/类路径.md",
+    "Inbox/应用类加载器.md",
+    "Inbox/jar 包.md",
+    "JVM/启动类加载器.md",
+    "Inbox/用户类路径.md"
   ]
 }
