@@ -4,54 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de869806d1a0f3d9",
-        "type": "split",
-        "children": [
-          {
-            "id": "9ea8cb84ee602d5c",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/对数.md",
-                "mode": "source"
-              }
-            },
-            "group": "1a70b32300c6d8e0"
-          },
-          {
-            "id": "5d306b37fd6c4137",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Math/对数.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.2380523391003364
-                }
-              }
-            },
-            "group": "1a70b32300c6d8e0"
+        "id": "9ea8cb84ee602d5c",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algorithm/堆排序.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -100,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 258,
+    "collapsed": true
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -116,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/对数.md",
+                "file": "Algorithm/堆排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/对数.md"
+                "file": "Algorithm/堆排序.md"
               }
             }
           }
@@ -155,6 +118,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Algorithm/堆排序.md",
     "Inbox/对数.md",
     "Inbox/堆排序.md",
     "Algorithm/二叉堆.md",
@@ -163,7 +127,6 @@
     "JVM/分代假说.md",
     "Attachment/堆的数组表示.png",
     "Inbox/堆有序.md",
-    "Inbox/二叉堆.md",
-    "Inbox/完全二叉树.md"
+    "Inbox/二叉堆.md"
   ]
 }
