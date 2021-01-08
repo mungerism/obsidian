@@ -1,3 +1,7 @@
+---
+aliases: [jar 包]
+---
+
 [[Class文件]] [[zip 包]]。将 `.zip` 后缀改为 `.jar`，一个 jar 包就创建成功。
 
 如果要执行一个 jar 包的[[Class文件]]，可以使用 [[-classpath|-cp]] 参数将 jar 包放到 [[类路径|ClassPath]] 中：

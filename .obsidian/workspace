@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/MANIFEST.MF.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -59,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 258,
+    "collapsed": true
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/MANIFEST.MF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/MANIFEST.MF.md"
+              }
             }
           },
           {
@@ -119,15 +126,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Inbox/MANIFEST.MF.md",
+    "Inbox/META-INF 目录.md",
     "JVM/GC Roots.md",
+    "JVM/jar 包.md",
+    "Inbox/Main-Class.md",
+    "JVM/NIO.md",
     "Inbox/-Xbootclasspath.md",
     "Inbox/-classpath.md",
     "Inbox/动态连接.md",
-    "Inbox/扩展类加载器.md",
-    "Inbox/类路径.md",
-    "Inbox/应用类加载器.md",
-    "Inbox/jar 包.md",
-    "JVM/启动类加载器.md",
-    "Inbox/用户类路径.md"
+    "Inbox/扩展类加载器.md"
   ]
 }
