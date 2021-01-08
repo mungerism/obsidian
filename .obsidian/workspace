@@ -10,12 +10,12 @@
           {
             "id": "332c40c31a353e88",
             "type": "leaf",
-            "dimension": 36.34175691937425,
+            "dimension": 44.810744810744815,
             "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JVM/局部变量表.md",
+                "file": "JVM/类加载器.md",
                 "mode": "source"
               }
             },
@@ -24,11 +24,11 @@
           {
             "id": "f47f91428f16d0ec",
             "type": "leaf",
-            "dimension": 63.65824308062575,
+            "dimension": 55.18925518925519,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/局部变量表.md",
+                "file": "JVM/类加载器.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -46,7 +46,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.508607536028469
+                  "scale": 1
                 }
               }
             },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/局部变量表.md",
+                "file": "JVM/类加载器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/局部变量表.md"
+                "file": "JVM/类加载器.md"
               }
             }
           },
@@ -164,15 +164,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "JVM/局部变量表.md",
-    "JVM/局部变量.md",
+    "JVM/类加载器.md",
+    "JVM/双亲委派.md",
     "Inbox/动态连接.md",
+    "JVM/方法区.md",
+    "JVM/局部变量表.md",
+    "JVM/局部变量槽.md",
+    "JVM/局部变量.md",
     "Inbox/静态解析.md",
     "JVM/栈帧.md",
-    "JVM/运行时常量池.md",
-    "JVM/常量.md",
-    "Attachment/堆的数组表示.png",
-    "Algorithm/堆排序.md",
-    "Algorithm/二叉堆.md"
+    "JVM/运行时常量池.md"
   ]
 }
