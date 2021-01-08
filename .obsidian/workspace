@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f01069eddeb6b287",
+        "id": "dc107cddc8ae1822",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JVM/启动类加载器.md",
+            "file": "Inbox/应用类加载器.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/启动类加载器.md",
+                "file": "Inbox/应用类加载器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/启动类加载器.md"
+                "file": "Inbox/应用类加载器.md"
               }
             }
           },
@@ -124,15 +124,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "JVM/启动类加载器.md",
-    "JVM/类加载器.md",
-    "JVM/类加载.md",
-    "Inbox/Java Applet.md",
-    "Inbox/自定义类加载器.md",
     "Inbox/应用类加载器.md",
     "Inbox/扩展类加载器.md",
-    "JVM/双亲委派.md",
-    "Inbox/动态连接.md",
-    "JVM/方法区.md"
+    "JVM/启动类加载器.md",
+    "Inbox/-Xbootclasspath.md",
+    "Inbox/tool.jar.md",
+    "Inbox/rt.jar.md",
+    "Inbox/lib 目录.md",
+    "Inbox/自定义类加载器.md",
+    "JVM/类加载器.md",
+    "Inbox/类库.md"
   ]
 }
