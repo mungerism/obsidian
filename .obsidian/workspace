@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/二叉堆.md",
+                "file": "Math/对数.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algorithm/二叉堆.md",
+                "file": "Math/对数.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258,
-    "collapsed": true
+    "width": 258
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/二叉堆.md",
+                "file": "Math/对数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/二叉堆.md"
+                "file": "Math/对数.md"
               }
             }
           }
@@ -156,6 +155,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Inbox/对数.md",
+    "Inbox/堆排序.md",
     "Algorithm/二叉堆.md",
     "Algorithm/完全二叉树.md",
     "Algorithm/堆有序.md",
@@ -163,8 +164,6 @@
     "Attachment/堆的数组表示.png",
     "Inbox/堆有序.md",
     "Inbox/二叉堆.md",
-    "Inbox/完全二叉树.md",
-    "README.md",
-    "Inbox/分代收集.md"
+    "Inbox/完全二叉树.md"
   ]
 }
