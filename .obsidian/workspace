@@ -4,56 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b2e421b61a7aa34",
-        "type": "split",
-        "children": [
-          {
-            "id": "332c40c31a353e88",
-            "type": "leaf",
-            "dimension": 44.810744810744815,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JVM/类加载器.md",
-                "mode": "source"
-              }
-            },
-            "group": "3d1b13498166cddb"
-          },
-          {
-            "id": "f47f91428f16d0ec",
-            "type": "leaf",
-            "dimension": 55.18925518925519,
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "JVM/类加载器.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1
-                }
-              }
-            },
-            "group": "3d1b13498166cddb"
+        "id": "f01069eddeb6b287",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JVM/启动类加载器.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -118,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/类加载器.md",
+                "file": "JVM/启动类加载器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/类加载器.md"
+                "file": "JVM/启动类加载器.md"
               }
             }
           },
@@ -164,15 +124,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "JVM/启动类加载器.md",
     "JVM/类加载器.md",
+    "JVM/类加载.md",
+    "Inbox/Java Applet.md",
+    "Inbox/自定义类加载器.md",
+    "Inbox/应用类加载器.md",
+    "Inbox/扩展类加载器.md",
     "JVM/双亲委派.md",
     "Inbox/动态连接.md",
-    "JVM/方法区.md",
-    "JVM/局部变量表.md",
-    "JVM/局部变量槽.md",
-    "JVM/局部变量.md",
-    "Inbox/静态解析.md",
-    "JVM/栈帧.md",
-    "JVM/运行时常量池.md"
+    "JVM/方法区.md"
   ]
 }
