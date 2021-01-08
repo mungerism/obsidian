@@ -4,54 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "89ebdb845e27d8b0",
-        "type": "split",
-        "children": [
-          {
-            "id": "9ea8cb84ee602d5c",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/堆排序.md",
-                "mode": "source"
-              }
-            },
-            "group": "ea90b4895726fb2c"
-          },
-          {
-            "id": "b00e2b3193e90464",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Algorithm/堆排序.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1
-                }
-              }
-            },
-            "group": "ea90b4895726fb2c"
+        "id": "3602bf33c0dbfb66",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algorithm/堆排序.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -158,13 +120,13 @@
   "lastOpenFiles": [
     "Algorithm/堆排序.md",
     "Algorithm/二叉堆.md",
+    "Inbox/堆排序^.md",
+    "Inbox/swim.md",
     "Inbox/对数.md",
     "Inbox/堆排序.md",
     "Algorithm/完全二叉树.md",
     "Algorithm/堆有序.md",
     "JVM/分代假说.md",
-    "Attachment/堆的数组表示.png",
-    "Inbox/堆有序.md",
-    "Inbox/二叉堆.md"
+    "Attachment/堆的数组表示.png"
   ]
 }
