@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9da3b9cffa590c60",
+        "id": "6b2e421b61a7aa34",
         "type": "split",
         "children": [
           {
-            "id": "3a0f659a85119db3",
+            "id": "332c40c31a353e88",
             "type": "leaf",
-            "dimension": 44.632086851628465,
+            "dimension": 36.34175691937425,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JVM/局部变量表.md",
+                "mode": "source"
+              }
+            },
+            "group": "3d1b13498166cddb"
+          },
+          {
+            "id": "f47f91428f16d0ec",
+            "type": "leaf",
+            "dimension": 63.65824308062575,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/静态解析.md",
+                "file": "JVM/局部变量表.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -32,25 +46,11 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.6113801096966147
+                  "scale": 1.508607536028469
                 }
               }
             },
-            "group": "4665db9fc7842e44"
-          },
-          {
-            "id": "332c40c31a353e88",
-            "type": "leaf",
-            "dimension": 55.36791314837153,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/静态解析.md",
-                "mode": "source"
-              }
-            },
-            "group": "4665db9fc7842e44"
+            "group": "3d1b13498166cddb"
           }
         ],
         "direction": "horizontal"
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "地址",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,12 +118,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/静态解析.md",
+                "file": "JVM/局部变量表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/静态解析.md"
+                "file": "JVM/局部变量表.md"
               }
             }
           },
@@ -157,8 +156,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,15 +164,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Inbox/静态解析.md",
+    "JVM/局部变量表.md",
+    "JVM/局部变量.md",
     "Inbox/动态连接.md",
+    "Inbox/静态解析.md",
     "JVM/栈帧.md",
     "JVM/运行时常量池.md",
     "JVM/常量.md",
     "Attachment/堆的数组表示.png",
     "Algorithm/堆排序.md",
-    "Algorithm/二叉堆.md",
-    "Inbox/Untitled.md",
-    "Attachment/堆排序：堆的构造（左）和下沉排序（右）.png.png"
+    "Algorithm/二叉堆.md"
   ]
 }
