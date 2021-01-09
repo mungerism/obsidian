@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "JVM/双亲委派.md",
-                "mode": "preview"
+                "mode": "source"
               }
             },
             "group": "a466cba4f1239a0a"
@@ -44,7 +44,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.8400973633099895
+                  "scale": 4
                 }
               }
             },
