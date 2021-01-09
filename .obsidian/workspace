@@ -8,10 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Inbox/类的生命周期.md",
-            "mode": "source"
+            "file": "Attachment/类的生命周期.png"
           }
         }
       }
@@ -32,7 +31,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#important",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,12 +56,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 258,
-    "collapsed": true
+    "width": 258
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -78,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/类的生命周期.md",
+                "file": "Attachment/类的生命周期.png",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/类的生命周期.md",
+                "file": "Attachment/类的生命周期.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/类的生命周期.md"
+                "file": "Attachment/类的生命周期.png"
               }
             }
           }
@@ -151,15 +150,15 @@
     "width": 330
   },
   "lastOpenFiles": [
-    "Inbox/类的生命周期.md",
+    "Attachment/类的生命周期.png",
+    "Attachment/堆排序：堆的构造（左）和下沉排序（右）.png",
+    "Attachment/类加载器双亲委派模型.png",
     "JVM/类加载.md",
+    "Inbox/类的生命周期.md",
     "JVM/Class文件.md",
     "JVM/常量池表.md",
     "JVM/对象的内存布局.md",
     "Inbox/实例数据.md",
-    "JVM/对象头.md",
-    "Inbox/对齐填充.md",
-    "JVM/GC Roots.md",
-    "JVM/对象的创建.md"
+    "JVM/对象头.md"
   ]
 }
