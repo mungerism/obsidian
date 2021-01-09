@@ -4,54 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3beaa65f6dc1c0c3",
-        "type": "split",
-        "children": [
-          {
-            "id": "90412f18e72ee289",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "JVM/Java 堆.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.10749712873954
-                }
-              }
-            },
-            "group": "a466cba4f1239a0a"
-          },
-          {
-            "id": "92a630d1a4132d62",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JVM/Java 堆.md",
-                "mode": "source"
-              }
-            },
-            "group": "a466cba4f1239a0a"
+        "id": "46b56729d858aad1",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JVM/对象的内存布局.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -116,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/Java 堆.md",
+                "file": "JVM/对象的内存布局.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/Java 堆.md"
+                "file": "JVM/对象的内存布局.md"
               }
             }
           },
@@ -163,15 +125,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "JVM/堆.md",
-    "Algorithm/二叉堆.md",
-    "JVM/变量槽.md",
-    "JVM/-classpath.md",
-    "Inbox/JVM 数据类型.md",
-    "Inbox/reference.md",
-    "JVM/局部变量.md",
-    "JVM/局部变量表.md",
-    "Inbox/returnAddress.md",
-    "Inbox/对象引用.md"
+    "JVM/对象的内存布局.md",
+    "Inbox/对齐填充.md",
+    "JVM/对象头.md",
+    "JVM/GC Roots.md",
+    "JVM/对象的创建.md",
+    "JVM/运行时常量池.md",
+    "JVM/常量池表.md",
+    "JVM/常量池.md",
+    "JVM/Java 堆.md",
+    "JVM/线程.md"
   ]
 }
