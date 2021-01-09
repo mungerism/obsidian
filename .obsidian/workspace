@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JVM/常量池表.md",
+            "file": "JVM/类加载.md",
             "mode": "source"
           }
         }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 258,
+    "collapsed": true
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -77,13 +78,13 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/常量池表.md",
+                "file": "JVM/类加载.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -95,7 +96,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1
+                  "scale": 1.0167005871973362
                 }
               }
             }
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/常量池表.md",
+                "file": "JVM/类加载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/常量池表.md"
+                "file": "JVM/类加载.md"
               }
             }
           }
@@ -147,18 +148,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 503
+    "width": 330
   },
   "lastOpenFiles": [
+    "JVM/类加载.md",
+    "JVM/Class文件.md",
+    "Inbox/类的生命周期.md",
     "JVM/常量池表.md",
     "JVM/对象的内存布局.md",
     "Inbox/实例数据.md",
     "JVM/对象头.md",
     "Inbox/对齐填充.md",
     "JVM/GC Roots.md",
-    "JVM/对象的创建.md",
-    "JVM/运行时常量池.md",
-    "JVM/常量池.md",
-    "JVM/Java 堆.md"
+    "JVM/对象的创建.md"
   ]
 }
