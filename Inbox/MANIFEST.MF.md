@@ -3,7 +3,7 @@
 如果指定了 [[Main-Class]] 就可以不必在命令行指定启动的类名:
 `java -jar hello.jar`
 
-[[jar]] 如果还包含其它 jar，需要在 [[MANIFEST.MF]] 文件里配置 [[类路径|ClassPath]]。
+[[jar]] 如果还包含其它 jar，需要在 [[MANIFEST.MF]] 文件里配置 [[用户类路径|ClassPath]]。
 
 ```
 Manifest-Version: 1.0
