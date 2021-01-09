@@ -10,11 +10,10 @@
           {
             "id": "90412f18e72ee289",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/内核态.md",
+                "file": "JVM/Java 堆.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -41,10 +40,11 @@
           {
             "id": "92a630d1a4132d62",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JVM/内核态.md",
+                "file": "JVM/Java 堆.md",
                 "mode": "source"
               }
             },
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "地址",
+                "query": "returnA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/内核态.md",
+                "file": "JVM/Java 堆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/内核态.md"
+                "file": "JVM/Java 堆.md"
               }
             }
           },
@@ -164,15 +163,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "JVM/内核态.md",
-    "JVM/双亲委派.md",
+    "JVM/堆.md",
+    "Algorithm/二叉堆.md",
+    "JVM/变量槽.md",
     "JVM/-classpath.md",
-    "Attachment/Pasted image 20210109120610.png",
-    "Attachment/堆排序：堆的构造（左）和下沉排序（右）.png",
-    "JVM/类加载器.md",
-    "JVM/自定义类加载器.md",
-    "JVM/应用类加载器.md",
-    "JVM/用户类路径.md",
-    "JVM/类路径.md"
+    "Inbox/JVM 数据类型.md",
+    "Inbox/reference.md",
+    "JVM/局部变量.md",
+    "JVM/局部变量表.md",
+    "Inbox/returnAddress.md",
+    "Inbox/对象引用.md"
   ]
 }
