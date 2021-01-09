@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "71895a445e506df6",
+        "id": "5b5fdfc950f42a5e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JVM/静态变量.md",
+            "file": "JVM/静态解析.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/静态变量.md",
+                "file": "JVM/静态解析.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -97,7 +97,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0270589130873942
+                  "scale": 0.7080147060078154
                 }
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/静态变量.md",
+                "file": "JVM/静态解析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/静态变量.md"
+                "file": "JVM/静态解析.md"
               }
             }
           }
@@ -152,15 +152,15 @@
     "width": 292
   },
   "lastOpenFiles": [
+    "JVM/静态解析.md",
+    "JVM/常量池表.md",
+    "JVM/类加载.md",
     "JVM/静态变量.md",
     "JVM/方法区.md",
     "Inbox/永久代.md",
-    "JVM/类加载.md",
     "JVM/类加载器.md",
     "Inbox/类名称空间.md",
     "Inbox/组件类型.md",
-    "Inbox/元素类型.md",
-    "Inbox/类的全限定名.md",
-    "JVM/常量.md"
+    "Inbox/元素类型.md"
   ]
 }
