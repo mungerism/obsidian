@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JVM/类加载.md",
+            "file": "Inbox/类的生命周期.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/类加载.md",
+                "file": "Inbox/类的生命周期.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/类加载.md",
+                "file": "Inbox/类的生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/类加载.md"
+                "file": "Inbox/类的生命周期.md"
               }
             }
           }
@@ -151,9 +151,9 @@
     "width": 330
   },
   "lastOpenFiles": [
+    "Inbox/类的生命周期.md",
     "JVM/类加载.md",
     "JVM/Class文件.md",
-    "Inbox/类的生命周期.md",
     "JVM/常量池表.md",
     "JVM/对象的内存布局.md",
     "Inbox/实例数据.md",
