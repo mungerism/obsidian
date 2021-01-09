@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be19e60c75eac52c",
+        "id": "3beaa65f6dc1c0c3",
         "type": "split",
         "children": [
           {
-            "id": "92a630d1a4132d62",
+            "id": "90412f18e72ee289",
             "type": "leaf",
             "active": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JVM/双亲委派.md",
-                "mode": "source"
-              }
-            },
-            "group": "a466cba4f1239a0a"
-          },
-          {
-            "id": "5b7f1903cd5f3948",
-            "type": "leaf",
-            "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/双亲委派.md",
+                "file": "JVM/内核态.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -44,8 +32,20 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 4
+                  "scale": 1.10749712873954
                 }
+              }
+            },
+            "group": "a466cba4f1239a0a"
+          },
+          {
+            "id": "92a630d1a4132d62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JVM/内核态.md",
+                "mode": "source"
               }
             },
             "group": "a466cba4f1239a0a"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/双亲委派.md",
+                "file": "JVM/内核态.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/双亲委派.md"
+                "file": "JVM/内核态.md"
               }
             }
           },
@@ -164,6 +164,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "JVM/内核态.md",
     "JVM/双亲委派.md",
     "JVM/-classpath.md",
     "Attachment/Pasted image 20210109120610.png",
@@ -172,7 +173,6 @@
     "JVM/自定义类加载器.md",
     "JVM/应用类加载器.md",
     "JVM/用户类路径.md",
-    "JVM/类路径.md",
-    "JVM/Class文件.md"
+    "JVM/类路径.md"
   ]
 }
