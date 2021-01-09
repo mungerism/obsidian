@@ -1,0 +1,1 @@
+META-INF 是 [[MANIFEST.MF]] 文件的 home 目录。

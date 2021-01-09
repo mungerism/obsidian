@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0cc759bfb9fe4192",
+        "id": "0002554b9b4980bb",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/MANIFEST.MF.md",
-            "mode": "preview"
+            "file": "JVM/扩展类加载器.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/MANIFEST.MF.md",
+                "file": "JVM/扩展类加载器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/MANIFEST.MF.md"
+                "file": "JVM/扩展类加载器.md"
               }
             }
           },
@@ -126,15 +126,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Inbox/MANIFEST.MF.md",
+    "JVM/扩展类加载器.md",
+    "JVM/类加载器.md",
+    "JVM/启动类加载器.md",
+    "JVM/应用类加载器.md",
     "Inbox/META-INF 目录.md",
+    "JVM/栈帧.md",
+    "JVM/线程.md",
+    "JVM/自定义类加载器.md",
     "JVM/GC Roots.md",
-    "JVM/jar 包.md",
-    "Inbox/Main-Class.md",
-    "JVM/NIO.md",
-    "Inbox/-Xbootclasspath.md",
-    "Inbox/-classpath.md",
-    "Inbox/动态连接.md",
-    "Inbox/扩展类加载器.md"
+    "Inbox/MANIFEST.MF.md"
   ]
 }
