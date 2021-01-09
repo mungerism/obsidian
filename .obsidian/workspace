@@ -4,54 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "83cfb1f9dccca39d",
-        "type": "split",
-        "children": [
-          {
-            "id": "0002554b9b4980bb",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JVM/扩展类加载器.md",
-                "mode": "source"
-              }
-            },
-            "group": "1101123cc8fd1c55"
-          },
-          {
-            "id": "1a4b8ddc39551adb",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "JVM/扩展类加载器.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1
-                }
-              }
-            },
-            "group": "1101123cc8fd1c55"
+        "id": "92a630d1a4132d62",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JVM/扩展类加载器.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "a466cba4f1239a0a"
+      },
+      {
+        "id": "5b7f1903cd5f3948",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "JVM/扩展类加载器.md",
+            "options": {
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1
+            }
+          }
+        },
+        "group": "a466cba4f1239a0a"
       }
     ],
     "direction": "vertical"
@@ -165,14 +158,14 @@
   },
   "lastOpenFiles": [
     "JVM/扩展类加载器.md",
-    "Inbox/META-INF 目录.md",
-    "JVM/应用类加载器.md",
-    "Algorithm/二叉堆.md",
-    "Inbox/优先队列.md",
+    "Inbox/ext 目录.md",
+    "JVM/lib 目录.md",
     "JVM/类加载器.md",
     "JVM/启动类加载器.md",
-    "JVM/栈帧.md",
-    "JVM/线程.md",
-    "JVM/自定义类加载器.md"
+    "JVM/应用类加载器.md",
+    "Inbox/类名称空间.md",
+    "JVM/自定义类加载器.md",
+    "Inbox/类的全限定名.md",
+    "Inbox/META-INF 目录.md"
   ]
 }
