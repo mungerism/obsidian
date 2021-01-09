@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JVM/类加载.md",
+            "file": "JVM/类加载器.md",
             "mode": "source"
           }
         }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 258,
+    "collapsed": true
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -78,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/类加载.md",
+                "file": "JVM/类加载器.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -96,7 +97,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0167005871973362
+                  "scale": 1.0270589130873942
                 }
               }
             }
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/类加载.md",
+                "file": "JVM/类加载器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/类加载.md"
+                "file": "JVM/类加载器.md"
               }
             }
           }
@@ -148,18 +149,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 593
+    "width": 292
   },
   "lastOpenFiles": [
+    "JVM/类加载器.md",
     "JVM/类加载.md",
+    "Inbox/类的全限定名.md",
     "JVM/常量.md",
     "JVM/常量池表.md",
     "Inbox/常量池.md",
     "Attachment/类的生命周期.png",
     "Attachment/堆排序：堆的构造（左）和下沉排序（右）.png",
     "Attachment/类加载器双亲委派模型.png",
-    "Inbox/类的生命周期.md",
-    "JVM/Class文件.md",
-    "JVM/对象的内存布局.md"
+    "Inbox/类的生命周期.md"
   ]
 }
