@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "46b56729d858aad1",
+        "id": "71895a445e506df6",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JVM/对象的内存布局.md",
-            "mode": "preview"
+            "file": "JVM/常量池表.md",
+            "mode": "source"
           }
         }
       }
@@ -32,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "returnA",
+                "query": "tag:#important",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,13 +61,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258,
-    "collapsed": true
+    "width": 258
   },
   "right": {
     "id": "83aa43a99551372b",
     "type": "split",
     "children": [
+      {
+        "id": "106d617b1e20b79e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe78e033747724cf",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "JVM/常量池表.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1
+                }
+              }
+            }
+          }
+        ]
+      },
       {
         "id": "312c7d78a541d57f",
         "type": "tabs",
@@ -78,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/对象的内存布局.md",
+                "file": "JVM/常量池表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -104,16 +138,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/对象的内存布局.md"
+                "file": "JVM/常量池表.md"
               }
-            }
-          },
-          {
-            "id": "8a1341dfc34eb322",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ],
@@ -121,19 +147,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377,
-    "collapsed": true
+    "width": 503
   },
   "lastOpenFiles": [
+    "JVM/常量池表.md",
     "JVM/对象的内存布局.md",
-    "Inbox/对齐填充.md",
+    "Inbox/实例数据.md",
     "JVM/对象头.md",
+    "Inbox/对齐填充.md",
     "JVM/GC Roots.md",
     "JVM/对象的创建.md",
     "JVM/运行时常量池.md",
-    "JVM/常量池表.md",
     "JVM/常量池.md",
-    "JVM/Java 堆.md",
-    "JVM/线程.md"
+    "JVM/Java 堆.md"
   ]
 }
