@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "JVM/对象初始化.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "JVM/对象初始化.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -92,7 +96,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7080147060078154
+                  "scale": 1.1753716581951497
                 }
               }
             }
@@ -117,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JVM/对象初始化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JVM/对象初始化.md"
+              }
             }
           }
         ],
@@ -152,15 +159,15 @@
     "width": 446.5
   },
   "lastOpenFiles": [
-    "JVM/new 指令.md",
-    "JVM/符号引用.md",
-    "JVM/运行时常量池.md",
-    "JVM/对象的创建.md",
-    "JVM/常量池表.md",
-    "JVM/方法.md",
-    "JVM/对象分配内存.md",
     "JVM/对象初始化.md",
-    "JVM/常量.md",
-    "JVM/本地方法栈.md"
+    "JVM/对象的内存布局.md",
+    "JVM/动态连接.md",
+    "Algorithm/二叉堆.md",
+    "Algorithm/完全二叉树.md",
+    "Math/对数.md",
+    "Inbox/优先队列.md",
+    "JVM/程序计数器.md",
+    "JVM/new 指令.md",
+    "JVM/符号引用.md"
   ]
 }
