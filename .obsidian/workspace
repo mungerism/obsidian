@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5b5fdfc950f42a5e",
+        "id": "80bd5d162a07e980",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JVM/静态解析.md",
-            "mode": "source"
+            "file": "JVM/方法句柄.md",
+            "mode": "preview"
           }
         }
       }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258,
-    "collapsed": true
+    "width": 258
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -79,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/静态解析.md",
+                "file": "JVM/方法句柄.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/静态解析.md",
+                "file": "JVM/方法句柄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/静态解析.md"
+                "file": "JVM/方法句柄.md"
               }
             }
           }
@@ -152,15 +151,15 @@
     "width": 292
   },
   "lastOpenFiles": [
-    "JVM/静态解析.md",
+    "JVM/方法句柄.md",
+    "JVM/对象头.md",
+    "JVM/方法参数.md",
+    "JVM/常量.md",
     "JVM/常量池表.md",
-    "JVM/类加载.md",
-    "JVM/静态变量.md",
-    "JVM/方法区.md",
-    "Inbox/永久代.md",
-    "JVM/类加载器.md",
-    "Inbox/类名称空间.md",
-    "Inbox/组件类型.md",
-    "Inbox/元素类型.md"
+    "JVM/本地内存.md",
+    "JVM/-Xbootclasspath.md",
+    "Attachment/类加载器双亲委派模型.png",
+    "JVM/静态解析.md",
+    "JVM/类加载.md"
   ]
 }
