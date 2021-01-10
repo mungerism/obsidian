@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JVM/局部变量表.md",
-            "mode": "source"
+            "file": "JVM/GC Roots.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/局部变量表.md",
+                "file": "JVM/GC Roots.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -97,7 +97,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9376850369734689
+                  "scale": 1.2286630371708402
                 }
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/局部变量表.md",
+                "file": "JVM/GC Roots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/局部变量表.md"
+                "file": "JVM/GC Roots.md"
               }
             }
           }
@@ -160,15 +160,15 @@
     "width": 377.5
   },
   "lastOpenFiles": [
+    "JVM/GC Roots.md",
+    "JVM/方法参数.md",
+    "JVM/栈帧.md",
     "JVM/局部变量表.md",
     "JVM/操作数栈.md",
-    "JVM/栈帧.md",
     "JVM/类加载.md",
     "README.md",
     "Inbox/clinit().md",
     "Inbox/静态语句块.md",
-    "JVM/Class文件.md",
-    "JVM/常量池表.md",
-    "JVM/对象分配内存.md"
+    "JVM/Class文件.md"
   ]
 }
