@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Algorithm/二叉堆.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -76,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Algorithm/二叉堆.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -93,7 +97,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7777761948375326
+                  "scale": 1.1848507060998537
                 }
               }
             }
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithm/二叉堆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithm/二叉堆.md"
+              }
             }
           }
         ],
@@ -153,15 +160,15 @@
     "width": 211.5
   },
   "lastOpenFiles": [
-    "JVM/GC Roots.md",
-    "Inbox/clinit().md",
-    "Inbox/静态语句块.md",
-    "JVM/类加载.md",
     "Algorithm/二叉堆.md",
+    "Algorithm/完全二叉树.md",
+    "JVM/类加载.md",
+    "Inbox/clinit().md",
+    "JVM/GC Roots.md",
+    "JVM/字符串常量池.md",
+    "Inbox/静态语句块.md",
     "JVM/动态连接.md",
     "JVM/对象初始化.md",
-    "JVM/对象的内存布局.md",
-    "Algorithm/完全二叉树.md",
-    "Math/对数.md"
+    "JVM/对象的内存布局.md"
   ]
 }
