@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2a157abf4bf467e6",
+        "id": "e95108244ea7031c",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/clinit().md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/clinit().md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -97,7 +93,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1848507060998537
+                  "scale": 1.0315709848780317
                 }
               }
             }
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/clinit().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/clinit().md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,18 +150,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 282.5
   },
   "lastOpenFiles": [
+    "JVM/类加载.md",
+    "README.md",
     "Inbox/clinit().md",
+    "Inbox/静态语句块.md",
     "JVM/Class文件.md",
     "JVM/常量池表.md",
     "JVM/对象分配内存.md",
-    "JVM/类加载.md",
     "JVM/字面量.md",
     "JVM/方法.md",
-    "JVM/方法句柄.md",
-    "JVM/分代假说.md",
-    "Algorithm/二叉堆.md"
+    "JVM/方法句柄.md"
   ]
 }
