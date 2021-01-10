@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JVM/对象初始化.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -62,7 +59,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324
+    "width": 324,
+    "collapsed": true
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -78,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/对象初始化.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -96,7 +93,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1753716581951497
+                  "scale": 0.7777761948375326
                 }
               }
             }
@@ -121,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/对象初始化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JVM/对象初始化.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,18 +150,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 211.5
   },
   "lastOpenFiles": [
+    "JVM/GC Roots.md",
+    "Inbox/clinit().md",
+    "Inbox/静态语句块.md",
+    "JVM/类加载.md",
+    "Algorithm/二叉堆.md",
+    "JVM/动态连接.md",
     "JVM/对象初始化.md",
     "JVM/对象的内存布局.md",
-    "JVM/动态连接.md",
-    "Algorithm/二叉堆.md",
     "Algorithm/完全二叉树.md",
-    "Math/对数.md",
-    "Inbox/优先队列.md",
-    "JVM/程序计数器.md",
-    "JVM/new 指令.md",
-    "JVM/符号引用.md"
+    "Math/对数.md"
   ]
 }
