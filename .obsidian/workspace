@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "80bd5d162a07e980",
+        "id": "2dd5e8e9f7d8eb92",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JVM/方法句柄.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -62,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 324
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -78,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/方法句柄.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -100,6 +96,14 @@
                 }
               }
             }
+          },
+          {
+            "id": "b97affeaeda17643",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       },
@@ -113,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/方法句柄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JVM/方法句柄.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,18 +149,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 446.5
   },
   "lastOpenFiles": [
-    "JVM/方法句柄.md",
-    "JVM/对象头.md",
-    "JVM/方法参数.md",
-    "JVM/常量.md",
+    "JVM/new 指令.md",
+    "JVM/符号引用.md",
+    "JVM/运行时常量池.md",
+    "JVM/对象的创建.md",
     "JVM/常量池表.md",
-    "JVM/本地内存.md",
-    "JVM/-Xbootclasspath.md",
-    "Attachment/类加载器双亲委派模型.png",
-    "JVM/静态解析.md",
-    "JVM/类加载.md"
+    "JVM/方法.md",
+    "JVM/对象分配内存.md",
+    "JVM/对象初始化.md",
+    "JVM/常量.md",
+    "JVM/本地方法栈.md"
   ]
 }
