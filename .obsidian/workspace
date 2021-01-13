@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "588c4b7b7ae9611a",
+        "id": "77b0069faf7bb9aa",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithm/堆排序.md",
+            "file": "准确式内存管理.md",
             "mode": "source"
           }
         }
@@ -57,12 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 324,
-    "collapsed": true
+    "width": 114
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algorithm/堆排序.md",
+                "file": "准确式内存管理.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -96,7 +96,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.2286630371708402
+                  "scale": 1.0569275967845604
                 }
               }
             }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/堆排序.md",
+                "file": "准确式内存管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/堆排序.md"
+                "file": "准确式内存管理.md"
               }
             }
           }
@@ -156,18 +156,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 168.5
   },
   "lastOpenFiles": [
-    "Algorithm/堆排序.md",
+    "准确式垃圾收集.md",
+    "根节点枚举.md",
+    "JVM/可达性分析算法.md",
+    "JVM/垃圾收集器.md",
+    "JVM/Serial 收集器.md",
+    "二叉搜索树.md",
     "Algorithm/二叉堆.md",
-    "JVM/标记-清除算法.md",
-    "JVM/垃圾收集算法.md",
-    "JVM/GC Roots.md",
-    "JVM/方法参数.md",
-    "JVM/栈帧.md",
-    "JVM/局部变量表.md",
-    "JVM/操作数栈.md",
-    "JVM/类加载.md"
+    "JVM/吞吐量.md",
+    "Java/Integer.md",
+    "Java/AtomicInteger.md"
   ]
 }
