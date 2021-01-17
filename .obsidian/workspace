@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "77b0069faf7bb9aa",
+        "id": "8bd73d58e269502d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "准确式内存管理.md",
+            "file": "轻量级锁.md",
             "mode": "source"
           }
         }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 114
+    "width": 121,
+    "collapsed": true
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -78,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "准确式内存管理.md",
+                "file": "轻量级锁.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "准确式内存管理.md",
+                "file": "轻量级锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "准确式内存管理.md"
+                "file": "轻量级锁.md"
               }
             }
           }
@@ -156,18 +157,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 168.5
+    "width": 100
   },
   "lastOpenFiles": [
-    "准确式垃圾收集.md",
-    "根节点枚举.md",
-    "JVM/可达性分析算法.md",
-    "JVM/垃圾收集器.md",
-    "JVM/Serial 收集器.md",
-    "二叉搜索树.md",
-    "Algorithm/二叉堆.md",
-    "JVM/吞吐量.md",
-    "Java/Integer.md",
-    "Java/AtomicInteger.md"
+    "轻量级锁.md",
+    "JVM/Mark Word.md",
+    "重量级锁.md",
+    "锁记录.md",
+    "JVM/锁对象.md",
+    "CAS.md",
+    "JVM/monitorenter.md",
+    "Java/ReentrantLock.md",
+    "JVM/原子性.md",
+    "可见性.md"
   ]
 }
