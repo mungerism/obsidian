@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9b21ccf047705f53",
+        "id": "b35f25cfd07330a5",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JVM/Serial 收集器.md",
-            "mode": "source"
+            "file": "Algorithm/二叉树.md",
+            "mode": "preview"
           }
         }
       }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -80,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JVM/Serial 收集器.md",
+                "file": "Algorithm/二叉树.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -98,7 +97,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.835720917883067
+                  "scale": 1.8357209178830673
                 }
               }
             }
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/Serial 收集器.md",
+                "file": "Algorithm/二叉树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/Serial 收集器.md"
+                "file": "Algorithm/二叉树.md"
               }
             }
           }
@@ -159,18 +158,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 342.5
   },
   "lastOpenFiles": [
-    "JVM/Serial 收集器.md",
-    "JVM/垃圾收集器.md",
-    "索引.md",
-    "主键索引.md",
-    "聚集索引.md",
-    "JVM/Garbage First 收集器.md",
-    "JVM/CMS 收集器.md",
-    "JVM/原子性.md",
-    "Java/非公平锁.md",
-    "JVM/有序性.md"
+    "Algorithm/二叉树.md",
+    "Algorithm/满二叉树.md",
+    "Algorithm/Untitled.md",
+    "Algorithm/二叉堆.md",
+    "JVM/类加载.md",
+    "JVM/混合收集.md",
+    "Algorithm/完全二叉树.md",
+    "Math/对数.md",
+    "MySQL/主键索引.md",
+    "MySQL/索引.md"
   ]
 }
