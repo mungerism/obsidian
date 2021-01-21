@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b35f25cfd07330a5",
+        "id": "a182458189eaadda",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithm/二叉树.md",
-            "mode": "preview"
+            "file": "200 - JVM/垃圾收集器.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 211,
+    "collapsed": true
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -79,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algorithm/二叉树.md",
+                "file": "200 - JVM/垃圾收集器.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -106,6 +107,30 @@
             "id": "b97affeaeda17643",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5201ccd3605b6d4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cae58b4031e5b5dd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0653ffd2ad48433f",
+            "type": "leaf",
+            "state": {
               "type": "calendar",
               "state": {}
             }
@@ -123,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/二叉树.md",
+                "file": "200 - JVM/垃圾收集器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/二叉树.md"
+                "file": "200 - JVM/垃圾收集器.md"
               }
             }
           }
@@ -158,18 +183,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 100
   },
   "lastOpenFiles": [
-    "Algorithm/二叉树.md",
-    "Algorithm/满二叉树.md",
-    "Algorithm/Untitled.md",
-    "Algorithm/二叉堆.md",
-    "JVM/类加载.md",
-    "JVM/混合收集.md",
-    "Algorithm/完全二叉树.md",
-    "Math/对数.md",
-    "MySQL/主键索引.md",
-    "MySQL/索引.md"
+    "200 - JVM/垃圾收集器.md",
+    "100 - Algorithm/二叉堆.md",
+    "200 - JVM/软引用.md",
+    "200 - JVM/HotSpot 虚拟机.md",
+    "200 - JVM/Classic VM.md",
+    "200 - JVM/类型元数据.md",
+    "200 - JVM/Exact VM.md",
+    "200 - JVM/半区复制分代策略.md",
+    "200 - JVM/OopMap.md",
+    "200 - JVM/本地内存.md"
   ]
 }
