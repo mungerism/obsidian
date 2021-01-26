@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a182458189eaadda",
+        "id": "2003035707e36775",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "200 - JVM/空间分配担保.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -29,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "swim",
+                "query": "分配担保",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,12 +57,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 146
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -76,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "200 - JVM/空间分配担保.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -93,33 +96,9 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.8357209178830673
+                  "scale": 0.7627816291826467
                 }
               }
-            }
-          },
-          {
-            "id": "b97affeaeda17643",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b5201ccd3605b6d4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cae58b4031e5b5dd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -143,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "200 - JVM/空间分配担保.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "200 - JVM/空间分配担保.md"
+              }
             }
           }
         ],
@@ -175,18 +157,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 325.5
   },
   "lastOpenFiles": [
-    "200 - JVM/垃圾收集器.md",
-    "100 - Algorithm/二叉堆.md",
-    "200 - JVM/软引用.md",
-    "200 - JVM/HotSpot 虚拟机.md",
-    "200 - JVM/Classic VM.md",
-    "200 - JVM/类型元数据.md",
-    "200 - JVM/Exact VM.md",
-    "200 - JVM/半区复制分代策略.md",
-    "200 - JVM/OopMap.md",
-    "200 - JVM/本地内存.md"
+    "200 - JVM/空间分配担保.md",
+    "200 - JVM/HandlePromotionFailure.md",
+    "200 - JVM/对象分配内存.md",
+    "200 - JVM/标记-复制算法.md",
+    "对象年龄.md",
+    "The-Archive-Demo-Notes-master/201705091531 Connections of notes.md",
+    "The-Archive-Demo-Notes-master/201705091535 Direct Links as Wiki-Links.md",
+    "The-Archive-Demo-Notes-master/201705111034 Luhmanns Zettelkasten.md",
+    "The-Archive-Demo-Notes-master/201705120915 Software-agnostic Programming.md",
+    "The-Archive-Demo-Notes-master/201801231551 Links to remote control The Archive.md"
   ]
 }
