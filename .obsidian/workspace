@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2003035707e36775",
+        "id": "d7b5e3ccd8be51fd",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "线程安全.md",
-            "mode": "source"
+            "file": "200 - JVM/Java 内存模型.md",
+            "mode": "preview"
           }
         }
       }
@@ -32,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "分配担保",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,12 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 164,
-    "collapsed": true
+    "width": 228
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "线程安全.md",
+                "file": "200 - JVM/Java 内存模型.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -97,13 +97,13 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7627816291826467
+                  "scale": 1.324735360027443
                 }
               }
             }
           },
           {
-            "id": "0653ffd2ad48433f",
+            "id": "3cb3185ee70013a0",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "线程安全.md",
+                "file": "200 - JVM/Java 内存模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,27 +149,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "线程安全.md"
+                "file": "200 - JVM/Java 内存模型.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 426.5
   },
   "lastOpenFiles": [
-    "线程安全.md",
-    "200 - JVM/偏向锁.md",
-    "200 - JVM/线程.md",
-    "抢占式线程调度.md",
-    "Java 线程调度.md",
-    "协同式线程调度.md",
-    "Java 线程的实现.md",
-    "内核线程.md",
-    "并发标记.md",
-    "200 - JVM/标记-复制算法.md"
+    "200 - JVM/Java 内存模型.md",
+    "200 - JVM/volatile.md",
+    "200 - JVM/可见性.md",
+    "并发特性.md",
+    "内存操作.md",
+    "200 - JVM/空间分配担保.md",
+    "200 - JVM/缓存一致性.md",
+    "缓存一致性.md",
+    "200 - JVM/运行时常量池.md",
+    "200 - JVM/符号引用.md"
   ]
 }

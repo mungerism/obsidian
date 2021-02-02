@@ -3,7 +3,7 @@ aliases: [Ordinary Object Pointer Map]
 ---
 
 ## 1. 什么是 OopMap
-[[OopMap]] 是记录了[[虚拟机栈]]中哪些位置是[[引用]]的数据结构。
+[[OopMap]] 是记录了[[虚拟机栈]]中哪些位置是[[Java 引用]]的数据结构。
 
 ## 2. 作用
 用于查找[[虚拟机栈]] 上的 [[GC Roots]] 作[[可达性分析算法|可达性分析]]。
