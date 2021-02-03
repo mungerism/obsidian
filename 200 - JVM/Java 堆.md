@@ -1,5 +1,5 @@
 ---
-aliases: [堆]
+aliases: [堆, 堆区]
 ---
 
 Java 堆是线程共享的。

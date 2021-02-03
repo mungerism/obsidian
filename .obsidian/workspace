@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d7b5e3ccd8be51fd",
+        "id": "40a723b9ff54d130",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -62,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228
+    "width": 156
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -79,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -97,7 +93,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.324735360027443
+                  "scale": 1.184960933435788
                 }
               }
             }
@@ -123,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,28 +143,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 532.5
   },
   "lastOpenFiles": [
-    "README.md",
-    "200 - JVM/Java 内存模型.md",
-    "200 - JVM/volatile.md",
-    "200 - JVM/可见性.md",
+    "NullPointException.md",
+    "Native 方法.md",
+    "主内存.md",
+    "操作系统内核.md",
     "并发特性.md",
-    "内存操作.md",
-    "200 - JVM/空间分配担保.md",
-    "200 - JVM/缓存一致性.md",
-    "缓存一致性.md",
-    "200 - JVM/运行时常量池.md"
+    "200 - JVM/字符串常量池.md",
+    "200 - JVM/GC Roots.md",
+    "200 - JVM/Java 堆.md",
+    "200 - JVM/OutOfMemoryError.md",
+    "200 - JVM/永久代.md"
   ]
 }
