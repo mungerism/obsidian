@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "40a723b9ff54d130",
+        "id": "81fd9b1902a911f5",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "200 - JVM/方法逃逸.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -59,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 156
+    "width": 159
   },
   "right": {
     "id": "83aa43a99551372b",
@@ -76,7 +79,9 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "200 - JVM/方法逃逸.md",
                 "options": {
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -85,15 +90,20 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.184960933435788
+                  "scale": 0.945981709713311,
+                  "close": true
                 }
               }
             }
@@ -119,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "200 - JVM/方法逃逸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "200 - JVM/方法逃逸.md"
+              }
             }
           }
         ],
@@ -151,18 +164,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532.5
+    "width": 165.5
   },
   "lastOpenFiles": [
-    "NullPointException.md",
-    "Native 方法.md",
-    "主内存.md",
-    "操作系统内核.md",
-    "并发特性.md",
-    "200 - JVM/字符串常量池.md",
-    "200 - JVM/GC Roots.md",
-    "200 - JVM/Java 堆.md",
-    "200 - JVM/OutOfMemoryError.md",
-    "200 - JVM/永久代.md"
+    "200 - JVM/方法逃逸.md",
+    "200 - JVM/逃逸分析.md",
+    "200 - JVM/半区复制分代策略.md",
+    "100 - 算法和数据结构/堆排序.md",
+    "200 - JVM/-classpath.md",
+    "500 - MySQL/聚集索引.md",
+    "400 - 数学/幂运算.md",
+    "400 - 数学/对数.md",
+    "200 - JVM/标量替换.md",
+    "200 - JVM/标记-复制算法.md"
   ]
 }
